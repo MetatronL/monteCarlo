@@ -1,3 +1,5 @@
+URL pentru testare: https://metatronl.github.io/monteCarlo/index.html
+
 # Craps:
 
 Joc: In Craps se arunca 2 zaruri dupa urmatoarele reguli:
