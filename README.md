@@ -31,6 +31,7 @@ Un exemplu de output este:
 | X | TTT | TTH | THT | THH | HTT | HTH | HHT | HHH |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | TTT | 0 | 0.500 | 0.598 | 0.599 | 0.874 | 0.582 | 0.703 | 0.500 |
+
 | TTH | 0.500 | 0 | 0.334 | 0.335 | 0.749 | 0.372 | 0.500 | 0.299 |
 | THT | 0.666 | 0.666 | 0 | 0.500 | 0.503 | 0.499 | 0.625 | 0.419 |
 | THH | 0.500 | 0.500 | 0.500 | 0 | 0.500 | 0.499 | 0.249 | 0.126 |
@@ -40,7 +41,3 @@ Un exemplu de output este:
 | HHH | 0.499 | 0.499 | 0.499 | 0.499 | 0.499 | 0.499 | 0.499 | 0 |
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
