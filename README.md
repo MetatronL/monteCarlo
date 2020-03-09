@@ -38,3 +38,9 @@ Un exemplu de output este:
 | HTH | 0.498 | 0.498 | 0.498 | 0.498 | 0.498 | 0 | 0.667 | 0.402 | 
 | HHT | 0.333 | 0.333 | 0.333 | 0.333 | 0.333 | 0.333 | 0 | 0.501 | 
 | HHH | 0.499 | 0.499 | 0.499 | 0.499 | 0.499 | 0.499 | 0.499 | 0 |
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
