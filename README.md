@@ -1,6 +1,4 @@
-# monteCarlo
-
-Craps:
+# Craps:
 
 Joc: In Craps se arunca 2 zaruri dupa urmatoarele reguli:
   - Suma celor doua zaruri este 7 sau 11(natural) => castiga
@@ -17,7 +15,7 @@ Sansa matematica este 0.492929
 P(castig) = P(suma = 7 sau 11) + P(suma noua = suma veche)
 
 
-Penney’s Game:
+# Penney’s Game:
 
 Joc: Avem o moneda pe care o putem arunca. Putem obtine cap(H = head) sau pajura(T = tail)
 
